@@ -1,0 +1,6 @@
+ID piesa: 101
+Pret: 255.55
+Vanzator: daf
+Model: pompa
+
+Sat Jan 18 00:54:01 2014

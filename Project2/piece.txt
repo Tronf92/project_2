@@ -1,0 +1,15 @@
+ID piesa: 102
+Pret: 1
+Vanzator: asdf
+Model: sadf
+
+ID piesa: 101
+Pret: 255
+Vanzator: daf
+Model: asdf
+
+0020BA58ID piesa: 101
+Pret: 561
+Vanzator: asfd
+Model: sdf
+
